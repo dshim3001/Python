@@ -1,0 +1,77 @@
+formatted string: Pythin 3.6 이상에서는 사용 가능
+
+f'{year}-{month}-{day}'
+
+2022-3-24
+
+print(year,'-',month,'-',day, sep=' ')
+
+format - C, Java, JS, ...
+정수: %d		%02d	03
+실수: %f		%4.1f	3.4
+문자열: %s	%4s	time
+
+(javascript) template literal	' 	'
+변수와 스트링의 내용이 동시에 같이
+(Python) formatted string f'	', f"	", f' ' '	' ' ', f"""	"""
+파이썬에서는 formatted string 사용 가능
+
+JAVA, JSP
+
+JavaScript NodeJS, ReactJS
+
+***
+
+반복문 시작 전 빈 리스트 만들기
+반복문 안에서 리스트에 엘리먼트(요소) 추가
+
+end - (증가폭 부호)*1
+
+ 0 - (-)1 ==> 1
+
+***
+괄호마다 명칭다름
+
+[	]	리스트(list), numpy array
+
+***
+
+1단계 - 초딩 수준
+
+2단계 - 조건문, 반복문, 함수, 기본적인 문제 해결
+
+3단계 - 파이썬 다운 코드 (익명 함수, 리스트 표현식, ...), 객체(class/obj?남이 만들어 놓은 공식) 사용 
+(자바는 처음부터 끝까지 객체임)
+
+4단계 - 객체 지향 코드 작성 가능 레벨
+
+**
+
+Slicing
+2차원/3차원?
+a[ : , 1::2]??
+
+***
+
+자료 수집: crawling
+
+string과 관련된 작업이 매우 많음
+
+자연어 처리
+
+***
+
+딕셔너리(Dictionary)
+
+{key1: value1,
+key2: value2
+...}
+
+***
+
+자료구조 DB
+
+1	create
+2	read retrieve
+3	update
+4	delete
